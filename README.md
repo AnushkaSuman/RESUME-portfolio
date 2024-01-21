@@ -1,3 +1,3 @@
 # RESUME-portfolio
 
-Made the first RESUME using HTML.
+Here is my RESUME which i have made using using HTML.
